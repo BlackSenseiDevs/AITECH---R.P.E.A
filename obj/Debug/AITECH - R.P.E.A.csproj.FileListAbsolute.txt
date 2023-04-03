@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\bin\Debug\AITECH - R.P.E.A.exe.config
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\bin\Debug\AITECH - R.P.E.A.exe
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\bin\Debug\AITECH - R.P.E.A.pdb
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\obj\Debug\AITECH - R.P.E.A.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\obj\Debug\AITECH - R.P.E.A.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\obj\Debug\AITECH___R.P.E.A.menu.resources
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\obj\Debug\AITECH___R.P.E.A.login.resources
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\obj\Debug\AITECH___R.P.E.A.Properties.Resources.resources
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\obj\Debug\AITECH - R.P.E.A.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\obj\Debug\AITECH - R.P.E.A.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\obj\Debug\AITECH - R.P.E.A.csproj.CopyComplete
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\obj\Debug\AITECH - R.P.E.A.exe
+C:\Users\anton\source\repos\AITECH - R.P.E.A\AITECH - R.P.E.A\obj\Debug\AITECH - R.P.E.A.pdb
